@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ Actualmente trabajando en: bots de Discord, paneles backend y herramientas para hosting.<br>🤝 Busco colaborar en: proyectos relacionados con APIs, automatización o herramientas para juegos.<br>🧩 Busco ayuda con: perfeccionar Java y diseño de software.<br>🌱 Estoy aprendiendo: Java y desarrollo backend avanzado.<br>💬 Pregúntame sobre: PHP, HTML/CSS, JS, C++, bases de datos y bots de Discord.<br>⚡ Dato curioso: Muchas de mis ideas empezaron como proyectos personales… y terminaron convirtiéndose en proyectos para comunidades.
+🛠️ Actualmente trabajando en: bots de Discord, paneles backend y herramientas para hosting.<br>🌱 Estoy aprendiendo: Java y desarrollo backend avanzado.<br>💬 Pregúntame sobre: PHP, HTML/CSS, JS, C++, bases de datos y bots de Discord.<br>⚡ Dato curioso: Muchas de mis ideas empezaron como proyectos personales… y terminaron convirtiéndose en proyectos para comunidades.
 
 
 ## 🌐 Socials:
